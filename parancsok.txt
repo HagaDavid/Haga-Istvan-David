@@ -1,0 +1,4 @@
+git clone (leklónózza a fájlokat majd csatlakoztatja)
+git init (hozzá adja a felhaszbálót a repository-hoz)
+git add (Hozzá adni a fájlt)
+git push (Feltölteni a fájlt a repoba)
